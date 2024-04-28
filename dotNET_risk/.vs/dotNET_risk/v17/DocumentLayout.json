@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Laurenz Haase\\Meine_Projekte\\RISK\\dotNET_risk\\",
+  "WorkspaceRootPath": "C:\\Users\\Laurenz Haase\\Meine_Projekte\\RISK\\RISK\\dotNET_risk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50D8151D-BC55-407F-88F5-452B569196A1}|dotNET_risk.csproj|c:\\users\\laurenz haase\\meine_projekte\\risk\\dotnet_risk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50D8151D-BC55-407F-88F5-452B569196A1}|dotNET_risk.csproj|c:\\users\\laurenz haase\\meine_projekte\\risk\\risk\\dotnet_risk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50D8151D-BC55-407F-88F5-452B569196A1}|dotNET_risk.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D8151D-BC55-407F-88F5-452B569196A1}|dotNET_risk.csproj|c:\\users\\laurenz haase\\meine_projekte\\risk\\risk\\dotnet_risk\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50D8151D-BC55-407F-88F5-452B569196A1}|dotNET_risk.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50D8151D-BC55-407F-88F5-452B569196A1}|dotNET_risk.csproj|c:\\users\\laurenz haase\\meine_projekte\\risk\\dotnet_risk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50D8151D-BC55-407F-88F5-452B569196A1}|dotNET_risk.csproj|c:\\users\\laurenz haase\\meine_projekte\\risk\\risk\\dotnet_risk\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D8151D-BC55-407F-88F5-452B569196A1}|dotNET_risk.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D8151D-BC55-407F-88F5-452B569196A1}|dotNET_risk.csproj|c:\\users\\laurenz haase\\meine_projekte\\risk\\risk\\dotnet_risk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50D8151D-BC55-407F-88F5-452B569196A1}|dotNET_risk.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,27 +31,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Laurenz Haase\\Meine_Projekte\\RISK\\dotNET_risk\\Form1.cs",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laurenz Haase\\Meine_Projekte\\RISK\\RISK\\dotNET_risk\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Laurenz Haase\\Meine_Projekte\\RISK\\dotNET_risk\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "ToolTip": "C:\\Users\\Laurenz Haase\\Meine_Projekte\\RISK\\RISK\\dotNET_risk\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:13:08.642Z",
+              "WhenOpened": "2024-04-28T08:45:09.546Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Laurenz Haase\\Meine_Projekte\\RISK\\RISK\\dotNET_risk\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Laurenz Haase\\Meine_Projekte\\RISK\\RISK\\dotNET_risk\\Form1.Designer.cs*",
+              "RelativeToolTip": "Form1.Designer.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:36:20.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Laurenz Haase\\Meine_Projekte\\RISK\\dotNET_risk\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Laurenz Haase\\Meine_Projekte\\RISK\\dotNET_risk\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Laurenz Haase\\Meine_Projekte\\RISK\\RISK\\dotNET_risk\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Laurenz Haase\\Meine_Projekte\\RISK\\RISK\\dotNET_risk\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwB8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T08:12:41.111Z",
+              "WhenOpened": "2024-04-28T08:33:28.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laurenz Haase\\Meine_Projekte\\RISK\\RISK\\dotNET_risk\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Laurenz Haase\\Meine_Projekte\\RISK\\RISK\\dotNET_risk\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:32:12.534Z",
               "EditorCaption": ""
             }
           ]
